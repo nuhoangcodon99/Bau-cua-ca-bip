@@ -12,15 +12,15 @@
     "tunnel": "lt --port 3002 --subdomain codedao-hook"
   },
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "^0.28.0",
     "body-parser": "^1.18.2",
     "delay": "^5.0.0",
     "dotenv": "^14.3.2",
-    "express": "^4.16.2",
+    "express": "^4.19.2",
     "morgan": "^1.9.0",
     "pm2": "^2.9.1",
     "request": "^2.83.0",
-    "socket.io": "^4.4.1",
+    "socket.io": "^4.6.2",
     "typescript": "^4.5.5"
   },
   "devDependencies": {
