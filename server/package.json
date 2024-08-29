@@ -12,7 +12,7 @@
     "tunnel": "lt --port 3002 --subdomain codedao-hook"
   },
   "dependencies": {
-    "axios": "^0.28.1",
+    "axios": "^1.7.4",
     "body-parser": "^1.18.2",
     "delay": "^5.0.0",
     "dotenv": "^14.3.2",
